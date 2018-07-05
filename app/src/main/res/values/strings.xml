@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">South Gate, CA</string>
+    <string name="food_list">Food</string>
+    <string name="fun_list">Fun</string>
+    <string name="shop_list">Shop</string>
+    <string name="services_list">Services</string>
+    <string name="in_n_out">In-N-Out Burger</string>
+    <string name="fast_food">Fast Food</string>
+    <string name="in_n_out_desc">California based fast food chain that serves delicious burgers,
+        fries, and shakes.</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="coffee_shop">Coffee Shop</string>
+    <string name="starbucks_desc">Seattle based coffee shop chain that serves coffee, snacks, free
+        Wi-Fi.</string>
+    <string name="ihop">IHOP</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="ihop_desc">Restaurant chain that serves a wide variety of breakfast foods, as
+        well as lunch and dinner platters.</string>
+    <string name="la_favorita_bakery">La Favorita Bakery</string>
+    <string name="bakery">Bakery</string>
+    <string name="la_favorita_bakery_desc">Local bakery that specializes in Hispanic pastries and
+        offers other baked goods.</string>
+    <string name="mcdonalds">McDonald\'s</string>
+    <string name="mcdonalds_desc">Classic fast food chain known for its burgers and fries.</string>
+    <string name="mariscos_el_perihuete">Mariscos El Perihuete </string>
+    <string name="latin_american">Latin American</string>
+    <string name="mariscos_el_perihuete_desc">Local Latin American restaurant chain that specializes
+        in seafood.</string>
+    <string name="la_siesta_inn">La Siesta Inn</string>
+    <string name="hotel">Hotel</string>
+    <string name="la_siesta_inn_desc">Free parking. Cable TV. Air conditioning. Bilingual staff.
+        What\'s not to love?</string>
+    <string name="yolandas_beauty_salon">Yolanda\'s Beauty Salon</string>
+    <string name="beauty_salon">Beauty Salon</string>
+    <string name="yolandas_beauty_salon_desc">A family friend beauty salon that specializes in
+        women\'s beauty.</string>
+    <string name="south_gate_park">South Gate Park</string>
+    <string name="park">Park</string>
+    <string name="south_gate_park_desc">A city park with a sports center, swim stadium, playgrounds,
+        and other recreations.</string>
+    <string name="leland_r_weaver_library">Leland R Weaver Library</string>
+    <string name="public_library">Public Library</string>
+    <string name="leland_r_weaver_library_desc">A Los Angeles Public Library that carries a wide
+        variety of books and hosts many book related events.</string>
+    <string name="family_dollar">Family Dollar</string>
+    <string name="discount_supplies">Discount Supplies</string>
+    <string name="family_dollar_desc">Discount goods chain that carries a wide variety of items
+        including household supplies, beauty products, stationary, and more.</string>
+    <string name="el_super">El Super</string>
+    <string name="grocery_store">Grocery Store</string>
+    <string name="el_super_desc">Supermarket chain that carries produce, dairy, meat,and other
+        grocery items.</string>
+    <string name="best_true_value_hardware">Best True Value Hardware</string>
+    <string name="home_improvement_store">Home Improvement Store</string>
+    <string name="best_true_value_hardware_desc">A small local hardware store that carries home
+        improvement supplies.</string>
+    <string name="greenspans">Greenspans</string>
+    <string name="mens_clothing_store">Men\'s Clothing Store</string>
+    <string name="greenspans_desc">A store known for its selection of men\'s vintage clothing. They
+        have a small selection of items for women.</string>
+    <string name="azalea_regional_shopping_center">Azalea Regional Shopping Center</string>
+    <string name="shopping_mall">Shopping Mall</string>
+    <string name="azalea_regional_shopping_center_desc">A shopping center containing many well
+        known store and restaurant chains. Seasonal events are hosted here from time to time.</string>
+    <string name="seven_11">7-Eleven</string>
+    <string name="convenience_store">Convenience Store</string>
+    <string name="seven_11_desc">Part of a well known convenience store chain. This particular
+        store is open 24/7.</string>
+    <string name="edwards_cinema">Edwards Cinema</string>
+    <string name="movie_theater">Movie Theater</string>
+    <string name="edwards_cinema_desc">Part of a movie theater chain. This location has 20 viewing
+        rooms.</string>
+    <string name="stanford_avenue_park">Stanford Avenue Park</string>
+    <string name="stanford_avenue_park_desc">A small park near a busy street. There is a small
+        outdoor playground for children.</string>
+    <string name="planet_fitness">Planet Fitness</string>
+    <string name="gym">Gym</string>
+    <string name="planet_fitness_desc">This gym offers a comfortable workout environment and
+        affordable membership plans.</string>
+    <string name="south_gate_park_sports_center">South Gate Park Sports Center</string>
+    <string name="south_gate_park_sports_center_desc">This sports center has a gym, a swimming pool,
+        a basketball gym, and much more.</string>
+    <string name="pack_and_ship">South Gate Pack N Ship</string>
+    <string name="shipping_and_mailing">Shipping and Mailing Service</string>
+    <string name="pack_and_ship_desc">An authorized shipping center that uses FedEx, UPS, and many
+        other shipping services. They offer many other services including fax services, copy and
+        printing services, and much more.</string>
+    <string name="chevron">Chevron</string>
+    <string name="gas_station">Gas Station</string>
+    <string name="chevron_desc">A small gas station. There is a small food mart that sells snacks
+        and drinks.</string>
+    <string name="sg_car_wash">South Gate Car Wash</string>
+    <string name="car_wash">Car Wash</string>
+    <string name="sg_car_wash_desc">This place offers affordable car wash services, each with a
+        free vacuum service.</string>
+    <string name="sg_auto_repair">Gary\'s Automotive Services</string>
+    <string name="auto_repair">Auto Repair Shop</string>
+    <string name="auto_repair_desc">A small auto repair shop that offers tune-ups, smog checks, and
+        much more.</string>
+
+</resources>
